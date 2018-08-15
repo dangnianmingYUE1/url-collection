@@ -46,13 +46,7 @@ SCI
     http://www.chaoxb.com/45/
 潮汐表
     http://ocean.cnss.com.cn/
-===================
-API
-IP地址
-    http://ip.cip.cc/
-二维码api
-    http://qr.liantu.com/api.php?text=	
-	
+
 ===================
 Git
 github
@@ -82,34 +76,7 @@ Software
 Microsoft 软件/系统镜像
     https://msdn.itellyou.cn/
 ===================
-Raspberry Pi
-树莓派(Raspberry Pi)
-    http://www.shumeipai.com/
-Raspberry Pi树莓派2轻松搭建多媒体终端OpenELEC KODI[支持乐视TV等] - Powered by Discuz!
-    http://www.geek-workshop.com/thread-14530-1-1.html
 
-树莓派实验室 | Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯
-    http://shumeipai.nxez.com/
-
-树莓派Win10镜像下载安装教程及使用初体验_树莓派RaspberryPi讨论区_云汉芯城电子工程师论坛-云汉芯城电子工程师社区
-    http://bbs.ickey.cn/group-topic-id-48099.html
-
-Raspberry Pi Downloads - Software for the Raspberry Pi
-    https://www.raspberrypi.org/downloads/
-
-level1 | 树莓派实验室
-    http://shumeipai.nxez.com/tag/level1
-
-使用 Raspberry Pi 远程桌面 - 开源中国社区
-    http://www.oschina.net/translate/how-to-remote-desktop-raspberry-pi?cmp
-
-树莓派论坛_中国最火卡片式电脑Raspberry Pi交流论坛 - Powered by Shumeipai.net!
-    http://www.shumeipai.net/forum.php
-
-10种树莓派最新系统列表+简介+下载+系统默认密码大合集 - 树莓派(Raspberry Pi) - 恩智社区 - Powered by Discuz! Archiver
-    http://bbs.nxez.com/archiver/tid-24.html
-树莓派上使用 GitLab 搭建专业 Git 服务 | 树莓派实验室
-    http://shumeipai.nxez.com/2017/10/20/raspberry-pi-use-gitlab-to-build-professional-git-services.html
 ===================
 Linux
 Linux入门教程（更新完毕）_Linux教程
@@ -123,31 +90,6 @@ Linux.中国-开源社区
 
 Linux命令大全
     http://man.linuxde.net/
-
-===================
-Web
-菜鸟教程
-    http://www.runoob.com/
-W3school
-	http://www.w3school.com.cn/
-W3Cschool
-    https://www.w3cschool.cn/
-HTML5+ API Reference | 中国产业联盟
-    http://www.html5plus.org/doc/h5p.html
-
-===================
-jQuery
-Demos | jQuery Mobile
-    http://demos.jquerymobile.com/1.4.5/
-jQuery Mobile.com
-    http://jquerymobile.com/
-jQuery 教程 | 菜鸟教程
-    http://www.runoob.com/jquery/jquery-tutorial.html
-jQuery Mobile 教程 | 菜鸟教程
-    http://www.runoob.com/jquerymobile/jquerymobile-tutorial.html
-
-jQuery Mobile 教程 | w3school
-    http://www.w3school.com.cn/jquerymobile/
 
 ===================
 Markdown
@@ -168,8 +110,6 @@ Unsorted
 MagicaVoxel | 3d 像素建模软件
     https://ephtracy.github.io/
 
-ESP8266串口模块的基本使用【转】
-	https://www.cnblogs.com/zzb-Dream-90Time/p/6674286.html
 大数据导航
 	http://hao.199it.com/
 在线工具 - 程序员的工具箱
