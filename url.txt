@@ -174,5 +174,6 @@ ESP8266串口模块的基本使用【转】
 	http://hao.199it.com/
 在线工具 - 程序员的工具箱
 	https://tool.lu/
-
+focusky 快捷键
+        http://www.focusky.com.cn/help-253.html
 ===================
